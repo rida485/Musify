@@ -14,8 +14,8 @@ import './globals.css'
 const font = Figtree({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Spotify Clone',
-  description: 'Spotify Clone',
+  title: 'Musify',
+  description: 'Musify',
 }
 
 export const revalidate = 0; //we don't want this layout to cache 
